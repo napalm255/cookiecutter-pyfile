@@ -1,4 +1,5 @@
 {
+    "__root__": ".",
     "module_name": "some_file",
     "title": "PyReader",
     "short_description": "Read and parse data.",
