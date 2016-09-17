@@ -1,0 +1,9 @@
+{
+    "module_name": "The name of the python file",
+    "full_name": "Brad Gibson",
+    "email": "napalm255@gmail.com",
+    "github_username": "napalm255",
+    "title": "PyReader",
+    "short_description": "Read and parse data.",
+    "release_date": "2016-09-16"
+}

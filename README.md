@@ -1,2 +1,0 @@
-# cookiecutter-pyfile
-# cookiecutter-pyfile
